@@ -1,5 +1,5 @@
 #### What is OPTIONS in HTTP methods?
-`
+
 When your browser makes a request to a host it might receive a script asking it to make HTTP requests to another host. 
 For security reasons browsers restrict HTTP requests not originating from original host within scripts. 
 Using OPTIONS http request the script can ask what headers/content-type it can make to the non-original host. 
@@ -21,4 +21,4 @@ Expires: Thu, 20 Oct 2016 11:45:00 GMT
 Server: EOS (lax004/2813)
 x-ec-custom-error: 1
 Content-Length: 0
-`
+
