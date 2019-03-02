@@ -1,4 +1,4 @@
-#### Q1 What is OPTIONS in HTTP methods?
+#### Q.1 What is OPTIONS in HTTP methods?
 
 When your browser makes a request to a host it might receive a script asking it to make HTTP requests to another host. 
 For security reasons browsers restrict HTTP requests not originating from original host within scripts. 
